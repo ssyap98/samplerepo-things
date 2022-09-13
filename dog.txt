@@ -3,3 +3,4 @@ Pug
 Chi wa wa
 Golder
 Bulldog
+Terrier
